@@ -139,6 +139,10 @@
 			"Name": "CyberGaffer",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3b1ffd6c29ea4c17b919907a1a1d81a9"
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
 		}
 	]
 }
